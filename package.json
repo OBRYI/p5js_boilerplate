@@ -1,0 +1,21 @@
+{
+  "name": "p5js_boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for generative art project which are based on p5js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "generative",
+    "art",
+    "p5js",
+    "boilerplate"
+  ],
+  "author": "obryi37",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
